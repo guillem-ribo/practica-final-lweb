@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url(../imatges/bg_inici.png);
+    background-image: url(bg_inici.png);
     background-attachment: fixed;
     padding-top: 70px;
 }
